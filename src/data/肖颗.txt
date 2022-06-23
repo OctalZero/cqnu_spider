@@ -1,0 +1,29 @@
+ 基本情况：肖颗，男，讲师，学历：研究生，学位：工学博士，最后学位所学专业：计算机科学与技术
+  
+  研究方向：车联网，移动计算
+  
+  教育经历：
+   2015.09-2020.06重庆大学博士学位计算机科学与技术
+   2006.09-2009.06重庆大学硕士学位计算机系统结构
+   2001.09-2005.06中南民族大学学士学位计算机科学与技术
+   
+  工作经历：
+   2009.7-2015.7    长江大学工程技术学院
+  2020.11-至今 重庆师范大学计算机与信息科学学院
+   
+  参与科研项目：
+   1.国家自然基金面上项目，面向大规模数据服务的异构融合车联网架构与协议研究，61872049，2019/01-2022/12；
+  2.国家自然基金面上项目，面向车联网多信道I2V/V2V混合通信与时态信息服务研究，61572088，2016/01-2019/12；
+  3.重庆市自然科学基金面上项目，移动计算环境中基于按需广播信息服务的算法与理论研究，cstc2017jcyjAX0026，2017/07-2019/06；
+  4.中央高校基本科研业务费“前沿交叉学科培育专项”项目，面向雾计算的软件定义车联网架构与协议关键技术研究，2018CDQYJSJ0034，2018/01-2019/12。
+  
+  代表性论文：
+   1．Kai Liu, Ke Xiao, Penglin Dai, Victor C. S. Lee, Songtao Guo, Jiangnong Cao. Fog Computing Empowered Data Dissemination in Software Defined Heterogeneous VANETs, IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2020.2997460 [SCI] 影响因子：5.112 (2019), 4.549 (5-year)（JCR一区）
+  2．Ke Xiao, Kai Liu, Xincao Xu, Liang Feng, Zhou Wu, Qiangwei Zhao. Cooperative Coding and Caching Scheduling via Binary Particle Swarm Optimization in Software Defined VehicularNetwork. Neural Computing and Applications, doi: 10.1007/s00521-020-04978-5. [SCI] 影响因子：4.774 (2019), 4.627 (5-year)（JCR一区）
+   3．Ke Xiao, Kai Liu, Xincao Xu, Yi Zhou, Liang Feng. Efficient Fog-assisted Heterogeneous Data Services in Software Defined VANETs. Journal of Ambient Intelligence and Humanized Computing, doi: 10.1007/s12652-019-01507-8. [SCI] 影响因子：4.594 (2019), 3.348 (5-year)（JCR一区）
+  4．Ke Xiao, Kai Liu, Junhua Wang, Yanning Yang, Liang Feng, Jingjing Cao, Victor Lee. A Fog Computing Paradigm for Efficient Information Services in VANET. IEEE Wireless Communications and Networking Conference (IEEE WCNC’19), Marrakech, Morocco, April 15-18, 2019. （CCFC类，EI检索）
+   
+  联系方式：
+   通讯地址：重庆师范大学计算机与信息科学学院，重庆，401331
+  E-mail：kexiao0625@gmail.com
+   

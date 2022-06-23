@@ -1,0 +1,20 @@
+    基本情况：黎天送，男，博士，讲师，所学专业：信息与通信工程。
+  
+  研究方向：图像/视频编码，多视点视频编码，智能图像/视频压缩。
+  工作经历：2021年7月至今，重庆师范大学计算机与信息科学学院教师
+  E-mail: 20210026@cqnu.edu.cn
+  科研与学术经历：
+   2011年09月—2014年07月 云南大学硕士研究生
+   2016年09月—2021年06月 华中科技大学 博士研究生
+  科研情况：
+   参与国家自然科学基金项目4项，先后在IEEE Transactions on Broadcasting，Signal Processing: Image Communication，IET Image Processing等多媒体图像视频处理领域的重要期刊上发表SCI论文4篇，CCF推荐B类会议2篇，并获得授权中国专利1项。
+  代表性论文：
+   [1] Tiansong Li, Li Yu, HongKui Wang, Zhuo Kuang. A bit allocation method based on inter-view dependency and spatio-temporal correlation for multi-view texture video coding. IEEE Transactions on Broadcasting, 2020, 67(1): 159-173.
+  [2] Tiansong Li, Hongkui Wang, Yamei Chen, Li Yu. Fast depth intra coding based on spatial correlation and rate distortion cost in 3D-HEVC. Signal Processing: Image Communication, 2020, 80: 115668. 
+  [3] Tiansong Li, Li Yu, HongKui Wang, Yamei Chen. Fast depth intra coding based on texture feature and spatio-temporal correlation in 3D-HEVC. IET Image Processing, 2021, 15(1): 206-217.
+  [4] Tiansong Li, Li Yu, HongKui Wang, Zhuo Kuang. An efficient rate-distortion optimization method for dependent view in MV-HEVC based on inter-view dependency. Signal Processing: Image Communication, 2021: 116166. 
+  [5] Tiansong Li, Li Yu, Shengwei Wang, Hongkui Wang. Simplified depth intra coding based on texture feature and spatial correlation in 3D-HEVC. Data Compression Conference. 2018: 421-421. 
+  [6] Tiansong Li, Li Yu, Shengju Yu, Yamei Chen. The bit allocation method based on inter-view dependency for multi-view texture video coding. Data Compression Conference (DCC). 2019: 428-437. 
+  [7] 喻莉, 黎天送, 王晟玮, 王鸿奎, 一种降低立体视频深度图编码复杂度的方法，中国专利: CN107592538B。
+  
+    

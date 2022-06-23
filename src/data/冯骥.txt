@@ -1,0 +1,23 @@
+基本情况：学位：工学博士； 最后学位所学专业：计算机科学与技术； 职称：讲师。 
+研究方向：
+数据挖掘，人工智能 
+教育经历：
+2009/09-2016/12,重庆大学，计算机科学与技术系，硕博连读，导师：朱庆生
+2004/09-2008/07,南京邮电大学，软件工程系，本科 
+工作经历：2017.1-至今  重庆师范大学计算机与信息科学学院 
+主持或参加科研项目：
+1. 重庆师范大学博士启动基金/人才引进项目，17XLB003，无参的自适应聚类分析算法研究与应用，2017/03-2019/3，3万，在研，主持
+2. 国家自然科学基金青年基金，61502060，基于多轴飞行器航拍数据的植物生长分析与建模，2015/01-2017/12，20万元，已结题，参加
+3. 国家自然科学基金面上项目，61272194，自然最近邻居的特性分析与应用研究 ，2013/01-2016/12，80万元，已结题，参加
+4. 重庆市基础与前沿研究计划项目，cstc2013jcyjA40049，面向认知无线电传感器网络节能优化的体系架构与频谱共享方法研究，2013/01-2016/12，20万元，已结题，参加
+5. 国家自然科学基金面上项目，61073058，结构离群特征分析与释义空间建模研究，2011/01-2013/12，32万元，已结题，参加 
+一、发表论文
+（1）Ji Feng# *, Yan Wei, Qingsheng Zhu, A Natural Neighborhood Based Classification Algorithm without parameter, CCF Big data 2017, shenzhen, P.R. China, 2017.10.13-10.15
+（2）冯骥# *, 张程, 朱庆生, 一种具有动态邻域特点的自适应最近邻居算法, 计算机科学, 2017(12)
+（3）Qingsheng Zhu# ，Ji Feng* ，Jinlong Huang，Weighted natural neighborhood graph: an adaptive structure for clustering and outlier detection with no neighborhood parameter，Cluster Computing，2016.01.01，19（3）：1~13
+（4）Qingsheng Zhu# *, Ji Feng, Jinlong Huang, Natural neighbor: A self-adaptive neighborhood method without parameter K ☆，Pattern Recognition Letters，2016.01.01，80：30~36
+（5）Jinlong Huang#, Qingsheng Zhu*, Lijun Yang, Ji Feng, A non-parameter outlier detection algorithm based on Natural Neighbor，Knowledge-Based Systems，2016.1.15，92：71~77
+（6）Qingsheng Zhu# *, Jinlong Huang, Ji Feng, A clustering algorithm based on natural nearest neighbor, Journal of Computational Information Systems, 2014.01.01，10（13）：5473~5480（7）朱庆生# *，唐汇，冯骥，一种基于自然最近邻的离群检测算法，计算机科学，2014.01.01，（03）：276~278+305（8）朱庆生# *，唐汇，冯骥，Delaunay三角剖分在离群点检测中的应用，计算机工程与应用，2014.1.01，（16）：166~170（9）Qingsheng Zhu# *, Xiaogang Fan, Ji Feng, Outlier detection based on k-neighborhood MST, IEEE International Conference on Information Reuse and Integration, Waikoloa: United States，2013.08.10-2013.08.15
+二、会议学术报告
+(1) 冯骥，一种无需邻域参数k的自然邻居分类算法，第五届CCF大数据学术会议，中国，深圳，2017年10月13-15日 
+联系方式：邮箱：jifeng@cqnu.edu.cn 

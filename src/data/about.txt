@@ -1,0 +1,7 @@
+名称：    cqnu_spider
+服务应用：3个
+应用程序：小程序
+版本：    V0.1
+版权：    Copyright © 2021 OctalZero. 
+开源协议: GNU
+项目仓库：https://github.com/OctalZero/cqnu_spider

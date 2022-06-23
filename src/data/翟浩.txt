@@ -1,0 +1,23 @@
+ 基本情况：
+   翟浩，男，讲师，学历：研究生，学位：工学博士，最后学位所学专业：计算机科学与技术
+ 研究方向：
+   图像处理，计算机视觉，深度学习
+ 所授课程：
+   《机器学习》、《模式识别》、《深度学习》
+ 教育经历：
+   2012/09-2015/06，重庆师范大学，计算机系统结构，硕士。
+   2015/09-2020/12，南京航空航天大学，计算机科学与技术，博士。
+  工作经历：
+   2021.6-至今  重庆师范大学计算机与信息科学学院
+  主持科研项目：
+   1. 江苏省普通高校研究生科研创新计划项目，KYLX16_0381，数字图像的无损信息隐藏技术研究，2016/07-2020/03，已结题，主持。
+  2. 重庆师范大学博士启动基金/人才引进项目，多聚焦图像融合方法研究，2021/09-至今，在研，主持。
+  发表论文：
+   1. 翟浩，庄毅. 利用拉普拉斯能量和CNN的多聚焦图像融合方法. 哈尔滨工业大学学报，2020，52 (5): 137-147. （EI, 检索号：20202508839239，第一作者）
+  2. Hao Zhai, Yi Zhuang, Multifocus image fusion method based on a convolutionalneural network. Journal of Electronic Imaging, 2019, 28(2) (023018). （SCI, 检索号：000473731200032，第一作者）
+  3. Hao Zhai, Yi Zhuang, Multi-focus image fusion method using energy of Laplacian and a deep neural network. Applied Optics, 2020, 59(6): 1684-1694. （SCI, 检索号：000526523300026，第一作者）
+  4. Hao Zhai, Yi Zhuang, Multifocus image fusion method based on convolutional deep belief network. IEEJ Transactions on Electrical and Electronic Engineering, 2021, 16(1): 85-97. （SCI，检索号：000585108700001，第一作者）
+  联系方式：
+   通讯地址：重庆市大学城 重庆师范大学计算机与信息科学学院，重庆，401331
+  QQ：760113768                     E-mail：zhaihao@cqnu.edu.cn
+   

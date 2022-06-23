@@ -1,0 +1,37 @@
+   冉瑞生，教授，博士，院长助理，硕士生导师。曾于国内一世界500强公司就职，现任教于重庆师范大学计算机与信息科学学院。主要从事机器学习和计算机视觉的研究。所授课程：《软件工程导论》、《设计模式》、《离散数学》、《高级软件工程》（研究生）
+  
+  1)近年来主持或参与科研项目情况
+   [1]教育部人文社科规划基金项目人工智能驱动下的自闭症儿童社会情绪评估研究”，2020年，主持
+  [2]重庆市技术创新与应用发展专项重点项目“基于学习者面部情感分析的在线学习评价系统研发与应用”，2020年，主持
+  [3]重庆市技术创新与应用发展专项重点项目“数字教育众筹众创的个性化服务平台研发及应用”，2019年，第一主研
+  [4]重庆市基础科学与前沿技术专项项目“局部保持流形学习算法的研究及其在人脸识别中的应用”1项，2016年，主持    
+  [5]成都必达智能控制系统有限公司委托的“基于B/S架构的酒店管理系统”横向项目1项，2017年，主持
+  [6]重庆师范大学校级科研项目“彩色人脸识别研究”项目1项，2016年，主持
+  [7]重庆师范大学校级优秀成果转化项目“气雾冷却模型及控制系统的研究与应用”项目1项，2017年，主持
+  
+  2)近年来的主要教改项目：
+   [1]教育部产学合作协同育人项目，重庆师范大学与安博协同育人实践条件建设项目（安博教育，新思科技），2017-2019，主持
+  [2]教育部产学合作协同育人项目，教学内容和课程体系改革-大数据基础与数据分析，2018-2020，主持
+  [3]重庆市教委研究生教改项目“应用技术转型视角下工程硕士实践教学体系的研究”1项，2016年，参研
+  
+  
+  3)近年来的主要科研论文：
+   [1]Ruisheng Ran, Feng Ji, Shougui Zhang, Bin Fang. A general matrix function dimensionality reduction framework and extension for manifold learning, IEEE Transactions on Cybernetics, 2020. (已网络出版)
+  [2]Ruisheng Ran, Yinshan Ren, Shougui Zhang, Bin Fang. A Novel Discriminant Locality Preserving Projections Method, Journal of Mathematical Imaging and Vision, 2021. (已网络出版)
+  [3]R. S. Ran, B. Fang, S. G. Zhang, et al., “Face recognition based on exponential neighborhood preserving discriminant embedding,” Journal of Computer, vol. 30, no. 6, pp. 1-14, Dec. 2019.
+  [4]冉瑞生,张守贵,任银山,房 斌. 基于双曲余弦矩阵鉴别分析的小样本问题研究.计算机应用研究,2019, 37(8),pp.2517-2521. 
+  [5]Ruisheng Ran, Bin Fang, Xuegang Wu, Exponential Neighborhood Preserving Embedding for Face Recognition, IEICE Transactions on Information and Systems, 2018, E101-D(5) :1410-1420.
+  [6]Ruisheng Ran, Bin Fang, Xuegang Wu, Shougui Zhang, A simple and effective generalization of exponential matrix discriminant analysis and its application to face recognition, IEICE Transactions on Information and Systems, 2018, E101-D(1): 265-268 
+  [7]Ruisheng Ran, Bin Fang, Xuegang Wu, Exponential Neighborhood Preserving Discriminant Embedding for Face Recognition, 2017 International Conference on Security, Pattern Analysis, and Cybernetics (SPAC), Shenzhen China, 2017 
+  [8]Rui-Sheng Ran，Ting-Zhu Huang, Face recognition based on the second-order 2-dimension PCA method[J]. Journal of Computational Information System, 2009,5(1):473-482
+  [9]Rui-Sheng Ran，Ting-Zhu Huang. An inversion algorithm for a banded matrix[J]. Computer and mathematics with applications，2009, 58(9): 1699-1710.
+  [10]Rui-Sheng Ran，Ting-Zhu Huang, An inversion algorithm for general tridiagonal matrix[J]. Applied Mathematics and Mechanics, 2009, 39(2): 247-253.
+  [11]Ruisheng Ran，Tingzhu Huang. The inverses of block tridiagonal matrices[J]. Applied Mathematics and Computation, 2006, 179: 243-247.
+  [12]Ting-Zhu Huang, Rui-Sheng Ran. A simple estimate for the spectral radius of (block) H-matrices[J]. Journal of Computation and Applied Mathematics,2005, 177:455-459 .
+  [13]Ruisheng Ran，Tingzhu Huang, Zhiwu Liao, An effective method of color image recognition[C]. The 4th International Conf. on Machine Learing and Cybernetics, 2005, 9: 5245-5248..
+  [14]Ruisheng Ran，Tingzhu Huang, Singular value feature extraction of color image and its application for recognition[C]. The 20th Congress.of the International Commission for Optics, 2005,8.
+  
+  此外，所开发的软件系统获多项计算机软件奖，获计算机软件著作权多项。
+  
+  联系方式：rshran@cqnu.edu.cn
+    

@@ -1,0 +1,27 @@
+基本情况：张杨，女，副教授，学历：研究生，学位：博士，最后学位所学专业：计算机科学与技术
+研究方向：可信计算，服务计算，软件度量
+研究兴趣：服务组合，可信性度量，软件项目管理
+所授课程：《高级软件工程》，《软件项目管理与案例分析》，《计算机文化基础》
+工作经历：
+2003.7-2007.7，重庆工程职业技术学院，教师
+科研情况：
+发表的论文：
+1.Yang Zhang, Bin Fang, Chuanyun Xu. Preference Ontology-Oriented Metric Model for Trustworthy Web Services. INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS. (SCI)
+2.Yang Zhang, Bin Fang, Chuanyun Xu. Trustworthy Metrics Models for Internetware. Wuhan University Journal of Natural Science. 2008, vol 13 No.5, 001-005.
+3.张杨，房斌，徐传运. 可信Web服务的偏好本体度量模型. 小型微型计算机系统. 2011,12(6):124-129.
+4.张杨，房斌，徐传运. 用于软件选型的度量模型及系统实现. 计算机工程与应用. 2008, 44(15): 25-28.
+5.张杨，房斌，徐传运. 基于遗传神经网络的可信web服务度量模型. 计算机应用系统，2010，27（1）：215-217.
+6.Yang Zhang, Bin Fang, Chuanyun Xu. Trustworthiness_Metrics Model for Internetware.  International Symposium on Education and Computer Science，2009: 326-329. (EI检索号:20093012219106)
+7.Wen Junhao, Zhang Yang, Chuanyun Xu. A sort of Metric Model Based on GA. Dynamics of Continuous, Discrete and Impulsive Systems, Series A: Mathematical Analysis. 2006.（SCI）.
+8.蔡海尼, 张杨, 文俊浩. 一种面向对象体系结构的度量模型. 哈尔滨工业大学学报. 2009, 41(8)：248-251.（EI源）
+9.徐传运，张杨，毛华扬. P2P 全文搜索引擎中的路由算法. 计算机工程. 2008, 34(17): 85-87.
+10.文俊浩, 张杨, 徐玲, 徐传运. 一种基于过程改进的度量模型. 计算机应用研究. 2008(1): 67-71.
+11.胡丽，张杨. 模糊评估在高校学生素质智能综合评价中的应用，现代教育技术，2007, 17 (5): 38-41.
+12.张杨,文俊浩. 适于高职计算机课程的三段教学模式，计算机教育，2007.3：63-65.
+13.张杨,文俊浩.探求创新型人才的培养思路,计算机教育, 2006.7: 73-75. 
+参与的项目：
+1.国家科技支撑计划重点项目子课题：基于SOA技术的勘察设计企业应用软件架构系统
+2.中央高校基本科研业务费科研专项：服务组合中度量驱动的服务发现机制研究
+3.重庆市自然科学基金：SOA中基于语义的自适应服务组合机制研究及其应用
+4.重庆市科技攻关计划项目：移动电子商务推进模式研究及其在重庆地区的应用示范
+联系方式：octoberzhang@163.com

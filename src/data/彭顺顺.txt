@@ -1,0 +1,16 @@
+ 基本情况：彭顺顺，女，讲师，工学博士，所学专业：软件工程
+  
+  研究方向：服务计算，智能算法
+  教育经历：
+   2014.09-2020.12 东南大学，博士研究生
+  2011.09-2014.06 沈阳师范大学，硕士研究生
+  2007.09-2011.07 沈阳师范大学，本科
+  工作经历：
+   2021.01-至今重庆师范大学计算机与信息科学学院
+  科研情况：
+   参与国家自然科学基金项目4项，先后在IEEE International Conference on Web Services，Future Generation Computer Systems等服务计算的重要会议和期刊上发表论文。
+  代表性论文：
+   (1)Shunshun Peng ; Hongbing Wang; Qi Yu; Estimation of Distribution with Restricted Boltzmann Machine for Adaptive Service Composition, 24th IEEE International Conference on Web Services , Honolulu, HI, 2017-6-25至2017-6-30.
+  (2)Hongbing Wang ; ; Qi Yu; Shunshun Peng A Parallel Refined Probabilistic Approach for QoS-aware Service Composition, Future Generation Computer Systems, 2019.9月, 98: 609-626. 
+   (3)Shunshun Peng; Hongbing Wang ; Qi Yu; Multi-Clusters Adaptive Brain Storm Optimization Algorithm for QoS-Aware Service Composition, IEEE Access, 2020.3月, 8: 48822-48835. 
+    

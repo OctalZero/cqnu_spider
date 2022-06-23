@@ -1,0 +1,58 @@
+      崔少国，博士，教授，硕士研究生导师。院长助理。国际电气电子工程师协会IEEE会员，中国计算机学会CCF教育专委会委员,中国计算机学会CCF会员，国际一般系统论研究会中国分会医学信息系统专业委员会第一届委员会常务委员，中华医学会医学信息学分会医学信息学教育专业学组成员，重庆市数字医学会理事，重庆市计算机学会会员，重庆市人工智能学会会员。
+  
+  2002—2005，中国地质大学（武汉）攻读计算机应用硕士研究生；2008—2011，四川大学攻读计算机科学与技术博士研究生；2017—2018，美国威斯康星大学麦迪逊分校 (University of Wisconsin-Madison)公派访问学者。2012—2019，重庆理工大学计算机科学与工程学院，副教授、教授；2020—，重庆师范大学计算机与信息科学学院，教授。
+  主持和参与国家自然科学基金、省自然科学基金、教育部、市教委等项目20余项；在国内外专业学术期刊上发表科研论文30余篇；申请授权国际发明专利2项，申请授权国家发明专利12项，申报软件著作权登记4项，出版学术专著1部，编写教材5部。主要承担的教学任务包括《人工智能及应用》、《算法设计与分析》、《数据库原理与应用》、《数字图像处理》、《机器学习》、《自然语言处理与文本挖掘》等。
+  联系方式：
+    Email:csg@cqnu.edu.cn
+   QQ: 531027034
+  研究方向：
+    大数据与人工智能；医学影像智能分析；计算机视觉（CV）与自然语言处理（NLP）；智慧医疗与智慧教育
+  主持和参与科研项目：
+    [1]基于全局阈值分割和局部聚类的自然图像超像素分割技术研究，国家自然科学基金
+  [2]基于主动视觉注意的网络视频感知质量评估方法研究，国家自然科学基金
+  [3]基于深度卷积网络的脑肿瘤全自动精确语义分割及无监督跨域迁移方法研究，重庆市科委自然科学基金
+  [4]基于频率复合的实时超声弹性成像理论与方法研究，重庆市科委自然科学基金
+  [5]肝组织的三维定量超声弹性成像方法与关键技术研究，重庆市科委自然科学基金
+  [6]超声弹性成像幅度调度噪声抑制研究，重庆市教委科学研究项目
+  [7]大规模海量图像库的实时智能检索方法与系统研制，重庆市教委人文社科重点项目
+  [8]基于视觉注意机制的超声弹性成像与图像理解，青年创新团队项目
+  [9]基于协同创新机制的计算机技术专业学位研究生实践创新能力培养体系研究，重庆市教委教研项目
+  [10]联合像素和超像素的医学图像分割关键技术研究，重庆市科委重点项目
+  [11]恶意软件经济学模型与资源分配策略研究，教育部一般项目
+  科研论文：
+    [1]ShaoguoCui, Dong C. Liu. Noise Reduction of Ultrasonic Elastography UsingTransmit-side FrequencyCompounding: A Preliminary Study[J]. IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 2011, 58(3):509-516.(SCI:000288674700004)
+  [2]Shaoguo Cui, Lei Mao, Shuyu Xiong. Brain Tumor Automatic Segmentation Using Fully Convolutional Networks[J]. Journal of Medical Imaging and Health Informatics. 7(7):1641-1647, 2017. (SCI: 000412171000026)
+  [3]Shaoguo Cui, Lei Mao, Jingfeng Jiang, Chang Liu, Shuyu Xiong. Automatic Semantic Segmentation of Brain Gliomas from MRI Images Using a Deep Cascaded Neural Network[J]. Journal of Healthcare Engineering. 2018:1-14, 2018. (SCI: 000428860500001)
+  [4]Shaoguo Cui, Moyu Chen and Chang Liu. DsUnet: A New Network Structure for Detection and Segmentation of Ultrasound Breast Lesions[J]. Journal of Medical imaging and Health Informatics.2019.10(3):1-4.(SCI: 000483964900019)
+  [5]Shaoguo Cui, Chang Liu, Moyu Chen and Shuyu Xiong. Brain Tumor Semantic Segmentation from MRI Image Using Deep Generative Adversarial Segmentation Network[J]. Journal of Medical Imaging and Health Informatics, 2019.(SCI:000483964900019)
+  [6]Wanping Liu, Chao Liu, Xiaoyang Liu, Shaoguo Cui, Xianying Huang. Modeling the Spread of Malware With the Influence of Heterogeneou Simmunization[J]. Applied Mathematical Modelling，2016,40(2016):3141-3152. (SCI: 000370767000046)
+  [7]Shaoguo cui，Chao Liu，Xiaoyang Liu. On the General Problem of Solution and Stability for Variable-Time Switched Systems，国际会议论文(IWCSN)， 2017.12.（EI：20183105644494）
+  [8]ShaoguoCui, Ming Hu，Xiangyang Liu,Yan Yu,Yan Jiang,XiaoWang. Freehand Strain Image Using Alternate Transmit Frequency, ICBBE, 2011/05，WuHan，pp:1383-1386.(EI：20113613207596).
+  [9]ShaoguoCui, Caibi Peng, DongC Liu. Multi-direction Guidance Motion Tracking forReal-time Ultrasound Strain Imaging，ICBBE，2010/04，ChengDu，pp:1248-1253.(EI：20103613208266).
+  [10]ShaoguoCui, Caibi Peng, DongC Liu. Amplitude Modulation Strain Noise Reduction byDisplacement Field Correction，ICBBE，2010/04，ChengDu，pp: 1291-1295.( EI：20103613208264).
+  [11]ShaoguoCui, Caibi Peng, Xiaolin Chen, Xiangyang Liu, Yong Yu, Qun Wang . UltrasoundElastographyPerformance Enhancement Using Wavelet Denoising，ICALIP，2010/12，ShangHai，pp:1238-1243.(EI：20110713662904).
+  [12]ShaoguoCui, Caibi Peng,Ming Li, Ping Ke, Jun Bao, Xiao Wang . A Robust Phase ZeroEstimator for Ultrasonic Elastography Using Quality-guided Seeding Strategy，ICALIP，2010/12，ShangHai，pp:1222-1226.(EI：20110713662916).
+  [13]崔少国，彭彩碧，冯欣. 基于侧向引导的2D加权相位分离位移估计[J],电子科技大学学报，2013，42(6):951-954. (EI：20140117158104)
+  [14]崔少国，彭彩碧，杨宏雨. 位移场修正法抑制弹性成像幅度调制噪声[J],电子科技大学学报，2014，43(2):306-310. (EI：20141717623281)
+  国际发明专利：
+    [1]Cui Shaoguo, Unsupervised cross-domain self-adaptive medical image segmentation method based on deep adversarial learning, Patent number:2020103905, Granted date:2021-01-27
+  [2] Cui Shaoguo, Image Semantic Segmentation Method Based on DeepFull ConvolutionalNetwork and ConditionalRandom Field, Patent number:2020103901, Granted date:2021-01-27
+   国家发明专利：
+    [1]崔少国 等. 一种基于全卷积网络的MRI图像脑肿瘤自动分割方法. 专利号：ZL201710379095.6
+  [2]崔少国 等.基于深度级联卷积网络的MRI脑肿瘤定位与瘤内分割方法. 专利号：ZL201711419945.7
+  [3]崔少国 等.基于深度全卷积网络和条件随机场的图像语义分割方法. 专利号：ZL201810085381.6
+  [4]崔少国 等. 基于对抗学习的多尺度特征融合超声图像语义分割方法. 专利号：ZL201810085384.X
+  [5]崔少国 等.基于深度对抗学习的无监督域自适应脑肿瘤语义分割方法，专利号：ZL201711476297.9 
+  [6]崔少国 等. 超声弹性成像一维轴向位移估计窗的位置估计方法，专利号：ZL201210486118.0 
+  [7]崔少国 等. 超声弹性成像二维轴向位移估计窗的位置估计方法，专利号：ZL201210485917.6 
+  [8]崔少国 等. 一种超声弹性成像性能增强方法，专利号：ZL201210486012.0 
+  [9]崔少国 等. 多频率轮流发射实时超声弹性成像方法，专利号：ZL201210486119.5 
+  [10]崔少国 等. 一种基于剪切波幅度和相位检测的组织粘弹性测量方法，专利号：ZL201610859018.6 
+  [11]崔少国 等. 一种基于马赫锥效应的多形状平面剪切波复合成像方法，专利号：ZL201610893496.9 
+  [12]崔少国 等.一种基于深度哈希的医学图像分布式检索方法，专利号：ZL201610844011.7 
+  软件著作权：
+    [1]崔少国 等. 编译技术中的语法分析方法模拟系统，登记号：2015SR061237 
+  [2]崔少国 等. 医学图像增强辅助诊断系统，登记号：2015SR061230 
+  [3]崔少国 等. 有穷自动机确定化与化简的动态可视化软件，登记号：2015SR045467 
+  [4]崔少国 等. 图像恢复与特征提取系统，登记号：2015SR020564
+      

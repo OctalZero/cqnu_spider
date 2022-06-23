@@ -1,0 +1,78 @@
+基本情况：杨德刚，男，教授，硕导，学历：研究生，学位：博士，最后学位所学专业：计算机应用技术
+研究方向：移动互联网技术、信息安全、神经网络、复杂网络、稳定性理论等。
+研究兴趣：移动互联网技术、智慧教育、信息安全、复杂网络、稳定性理论等。
+所授课程：计算机网络、信息安全、计算机组成原理、人工智能、人工神经网络等。
+工作经历：    
+1997年7月进入重庆师范大学数学与计算机科学学院任教，2002年9月晋升讲师，2005年12月破格晋升副教授，2010年12月晋升教授。
+2005年12月遴选为硕士生导师，2004年6月于重庆大学计算机系统结构硕士毕业，2007年12月重庆大学计算机应用技术专业博士毕业。
+2005年起担任硕士生导师。   
+重庆市第三批学术技术带头人，重庆市第二批“高等学校优秀人才支持计划”人选，重庆市“高等学校优秀中青年骨干教师资助计划”人选，重庆市第四届“高等学校中青年骨干教师”。
+国家自然科学基金、天津自然科学基金、重庆自然科学基金、广西自然科学基金评审专家。
+科研情况： 
+工作以来，参与编写论著2册；在国际国内学术刊物上发表学术论文50余篇，其中核心期刊论文40余篇；三大检索收录34篇次，
+其中SCI收录13篇、EI收录17篇、ISTP收录4篇。
+CSCD收录9篇。
+主持及合作省部级项目20余项，主持国家自然科学基数学天元青年基金1项、重庆市第二批高等学校优秀人才支持计划项目1项、重庆市自然科学基金2项、市教委教改重点项目1项、教委科技项目3项；参与国家级项目2项，其中主研国家自然科学基金项目1项，参与重庆市科委自然科学基金4项、重庆市教委科技项目5项。获重庆市自然科学奖三等奖1项，软件著作权2项。    
+主持重庆市教委教改重点项目1项，重庆市教委研究生教改项目1项，重庆市第四批重庆市研究生教育优质课程《人工智能》1门。    
+参与我校全国大学生《数学建模竞赛》的教练与指导工作。所指导数学建模竞赛获奖国家级二等奖2项、重庆市一等奖3项、重庆市二等奖5项。
+获奖情况：
+[1]   杨德刚等.时滞网络的定性分析及其应用，重庆市自然科学奖三等奖.编号：2013-Z-3-04-R01，2014.08.
+软件著作权：
+[1]   杨德刚等.一种带输出反馈的混沌文件加密管理系统软件,编号：2013SR134668，2013-11.
+[2]   朱德利,杨德刚.大管家物业管理系统软件,编号：2013SR134728，2013-12. 杨德刚
+出版论文：
+[1]  Degang Yang, Guoying Qiu, Chuandong Li. Global exponential stability of memristive neural networks with impulse time window and time-varying delays. Neurocomputing, 2016.01. (SCI、EI检索)
+[2]  Yang, Degang etc. Design of an intelligent car for searching track and avoiding obstacles，International Journal on Smart Sensing and Intelligent Systems, v 8, n 2, p 1354-1378, 2015.（EI检索）
+[3]  Degang Yang, Guoying Qiu. Terminal Sliding Mode Control with Adaptive Feedback Control in a class of Chaotic Systems, Mathematical Problems in Engineering. Vol. 2014, Article ID 267024. (SCI、EI检索)
+[4]  Degang Yang, Guoying Qiu. Stabilization of a Class of Chaotic Systems via Single-state Adaptive Feedback Controller. Applied Mechanics and Materials, Vol. 571-572. Computers and Information Processing Technologies I, Issue date 2014, pages 965-968.（EI检索）
+[5]  朱中华,杨德刚.公交系统复杂网络抗毁行分析———以重庆市公交换乘网络为例.重庆师范大学学报（自然科学版）, 2014.01.   (CSCD检索).
+[6]  陈石波，杨德刚，杨有，贺一，基于51单片机的公厕蹲位显示系统设计与实现，《重庆师范大学学报：自然科学版》2013.05,30 (3).   (CSCD检索).
+[7]  Zhu, Rong; Yang, Degang .Research of image segmentation base on PCNN method. Proceedings of the International Conference on Information Engineering and Applications(IEA 2012), LNEE, VOL. 2, p 521-528, 2013.（EI检索）
+[8]  Zhonghua Zhu, Degang Yang. Research on Urban Public Traffic Network of Chongqing based on PAJEK. The 2011 International Conference on Information Science and Engineering Application (ISEA2011), 2011.10: 485-491.（EI检索）
+[9]  Man Zhao, Degang Yang. Empirical Analysis ofWuhanWeighted Bus-Stop Network Characteristics. The 2011 International Conference on Information Science and Engineering Application (ISEA2011), 2011.10: 141-149.（EI检索）
+[10]    Degang Yang etc. New delay-dependent global asymptotic stability criteria of delayed BAM neural networks. Chaos, Solitons and Fractals 42 (2009) 854–864. (SCI、EI检索)
+[11]    Degang Yang, Xiaofeng Liao, Yong Wang, Huaqian Yang, Pengcheng Wei. A Novel Chaotic Block Cryptosystem based Iterating Map with Output-Feedback. Chaos, Solitons and Fractals 41 (2009) 505–510. (SCI、EI检索)
+[12]    Degang Yang etc. Novel delay-dependent global asymptotic stability condition of Hopfield neural networks with delays，Computers and Mathematics with Applications 57 (2009) 1978-1984. (SCI、EI检索)
+[13]    Degang Yang, Xiaofeng Liao, Chunyan Hu, Yong Wang. New delay-dependent exponential stability criteria of BAM neural networks with time delays. Mathematical and Computers in simulation, 79(2009) 1679–1697. (SCI、EI检索)
+[14]    Degang Yang, Xiaofeng Liao, Yong Chen, Songtao Guo, Hui Wang. New delay-dependent global asymptotic stability criteria of delayed Hopfield neural networks. Nonlinear Analysis: Real World Applications, 9 (2008) 1894-1904.（SCI、EI检索）
+[15]    Degang Yang, Qun Liu, Yong Wang. A novel delay-dependent global stability criterion of delayed Hopfield neural networks. The 2007 IEEE International Conference on Granular Computing (GrC 2007). 2007.11.（EI、ISTP检索）
+[16]    Degang Yang. New global exponential stability criteria of Hopfield neural networks with delays，The 2nd International Conference on Complex Systems and Applications，2007.06: 733-737, (ISTP检索)
+[17]    杨德刚，陈永红，杨华千，韦鹏程.在数字图像中嵌入多水印的算法研究,计算机工程与应用，2005.7,41(21)：41-44，(CSCD检索).
+[18]    杨德刚.基于模糊C均值聚类的网络入侵检测算法,计算机科学, 2005, 32(1):86-87,91，(CSCD检索).
+[19]    杨德刚.一种新的时滞细胞神经网络全局渐近稳定性研究，重庆师范大学报，2007.3.
+[20]    Huaqian Yang, Kwok-Wo Wong, Xiaofeng Liao, Yong Wang, Degang Yang. One-way hash function construction based on c, haotic map network. Chaos, Solitons and Fractals 41 (2009) 2566–2574. (SCI、EI检索).
+[21]    Yang Li, Xiaofeng Liao, Chuandong Li, TingwenHuang, Degang Yang. Impulsive synchronization and parameter mismatch of the three-variable autocatalator model, Physics Letters A，2007.06: 52-60，(SCI、EI检索)
+[22]    Yong Wang, Xiaofeng Liao, Tao Xiang, Kwok-Wo Wong, Degang Yang. Cryptanalysis and improvement on a block cryptosystem based on iteration a chaotic map，Physics Letters A，2007.04: 277-281，(SCI、EI检索)
+[23]    Songtao Guo, Xiaofeng Liao, Chuandong Li, Degang Yang. Stability analysis of a novel exponential-RED model with heterogeneous delays，Computer Communications，2007.03: 1058-1074，(SCI、EI检索)
+[24]    Guo Chen，Feng Tan，Degang Yang. A Novel Cryptographic Schema Based On Wavelet Neural Network，The Third International Symposium on Neural Networks (ISNN 2006)，2006.5: 326-331，(SCI、EI、ISTP检索)
+[25]    Wang zhengxia, Yang Degang, Han fengqing, Liang xinyuan. New global asymptotic stability criteria of Hopfield neural network with time-varying delays. The 7th World Congress on Intelligent Control and Automation (WCICA'08). 2008.06: 7119-7124.（EI检索）
+[26]    Yong Wang, Degang Yang, Maokang Du, Huaqian Yang. One-way Hash function construction based on iterating a chaotic map. Proceedings of 2007 International Conference on Computational Intelligence and Security, Harbin, China, 15-19 December 2007.（EI检索）
+[27]    Qun Liu, Xiaofeng Liao, Degang Yang, Songtao Guo. The research for Hopf bifurcation in a single inertial neuron model with external forcing, The 2007 IEEE International Conference on Granular Computing (GrC 2007). 2007.11.（EI、ISTP检索）、[28]    Jun Wei, DeGang Yang, PengCheng Wei, Bo Mi, KaiBang Yuan. An Improved chaotic encryption algorithm，The 1st International Conference on Computer Science & Education，2006.7: 87-90，(ISTP检索)
+[29]    张欣,杨德刚,朱凯.一种基于外部密钥的混沌加密方法.重庆师范大学学报（自然科学版）,2010.03. 
+[30]    张欣,杨德刚.基于多维混沌组合的图像加密算法法.江西师范大学学报, 2010.01.
+[31]    张欣,杨德刚.一种基于混沌映射的图像加密方法.重庆工学院学报, 2009.10.
+[32]    朱凯,杨德刚,陈守刚.一种基于斜帐篷映射的混沌加密方法.重庆师范大学学报, 2009.04, 26卷2期: 99-102.主持及参与的
+科研项目 
+[1] 2010/01-2010/12，带耦合时滞复杂网络的同步及其应用研究，国家自然科学基金数学天元青年基金项目(合同号：10926170)，项目负责人(1/3)
+[2] 2010/01-2012/12，不确定时滞脉冲混合系统的渐近性分析与混合控制，国家自然科学基金(合同号：10971240)，主研(4/10)
+[3] 2008/10-2010/12，基于WLAN的异常交通流信息获取技术研究，中国科技部中俄科技合作项目(863项目) (合同号：CR12-30)
+[4] 2012/01-2014/12，脉冲随机泛函微分方程的定性分析及其在种群生态系统中的应用，中国教育部科技重点项目(合同号：212138 ) (教育部重点)
+[5] 2014/06-2016/12，时滞系统的混沌特性分析及其控制方法研究，重庆市教委科技计划项目(合同号：KJ1400505)，项目负责人(1/6)
+[6] 2014/06-2016/7，基于支持向量机的半监督学习模型和算法研究，重庆市教委科技计划项目(合同号：KJ1400519)，主研(3/7)
+[7] 2013/08-2015/12，基于Mean Shift权重粒子滤波算法的害虫监测方法研究及原型系统实现，重庆市科委自然科学基金项目(合同号：cstc2013jcyjA80013)，主研(3/5)
+[8] 2013/01-2014/12，面向云存储的数据安全保护技术研究，重庆市教委科技计划项目(合同号：KJ130611)，主研(2/7)
+[9] 2012/08-2014/12，基于复杂网络的城市交通网络建模与动力学特性研究，重庆市科委自然科学基金项目(合同号：CSTC, cstc2012jjA40052)，项目负责人(1/4)
+[10]2012/01-2013/12，时滞系统的非线性动力学性质及其应用研究，重庆市教委科技计划项目(合同号：KJ120615)，主研(2/5)
+[11]2012/01-2013/12，脉冲随机泛函微分方程的定性分析及其在种群生态系统中的应用，重庆市教委科技计划项目重点(合同号：KJ120630 )，主研(3/5, )
+[12]2011/06-2012/12，时滞微分系统的混沌特性及其应用研究，重庆市教委科技计划项目(合同号：KJ110628)，项目负责人(1/6)
+[13]2010/09-2012/12，基于复杂网络的城市交通网络动力学性质及其规划优化技术研究，重庆市第二批高等学校优秀人才资助计划，项目负责人(1/8)
+[14]2009/08-2012/08，软集合理论及其在桥梁养护管理系统决策优化中的应用，重庆市科委自然科学基金项目(合同号：CSTC,2009BB6388)，第二主研(2/5)
+[15]2009/06-2010/12，混沌同步性质及其在密码学中的应用研究，重庆市教委科技计划项目(合同号：KJ090803)，项目负责人(1/5)
+[16]2008/08-2011/12，耦合时滞复杂网络的同步性质及其应用研究，重庆市科委自然科学基金项目(合同号：CSTC,2008BB2366)，项目负责人(1/5)
+[17]2008/12-2009/12,带耦合时滞复杂网络的同步及其应用研究,重庆师范大学重点项目(合同号：08XLZ07),项目负责人(1/1)
+[18]2008/03-2009/06，神经网络稳定性及复杂网络同步的研究，重庆师范大学博士基金(合同号：08XLB003)，项目负责人(1/4)
+[19]2014/11-2017/12，产学研相结合的项目协作创新型人才培养模式研究–––以信息类专业研究生为例，重庆市教委研究生教改项目(合同号：yjg143021)，项目负责人(1/7)
+[20]2009/08-2011/12，面向软件人才需求的信息类专业人才培养模式研究与实践，重庆市教委教改重点项目(合同号：09-2-020)，项目负责人(1/7)
+[21]2015/10-2017/10，人工智能，重庆市研究生优质课程，主持(1/8) 联系方式：通讯地址：重庆市大学城 重庆师范大学计算机与信息科学学院，重庆，401331
+联系电话：023-65910278（O）、023-65910275（Fax）
+E-mail：460494731@qq.com

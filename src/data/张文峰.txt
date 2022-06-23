@@ -1,0 +1,15 @@
+ 基本情况：张文锋，男，博士，讲师，所学专业：计算机软件与理论。
+  研究方向：多媒体内容分析与检索，计算机视觉，深度学习，机器学习。
+  工作经历：2021年9月至今，重庆师范大学计算机与信息科学学院教师
+  科研与学术经历：
+   2015年09月—2017年06月 中国海洋大学硕士研究生
+   2017年09月—2021年06月 中国海洋大学 博士研究生
+  科研情况：
+   参与国家自然科学基金项目3项，先后在Expert Systems With Applications、Neurocomputing、Neural Compute and Applications、MMM等国际期刊和会议上发表论文4篇。
+  代表性论文：
+   1.Wenfeng Zhang, Lei Huang, Zhiqiang Wei, Jie Nie. Appearance Feature Enhancement for Person Re-identification[J]. Expert Systems with Applications, 2021, 163: 113771. 
+   2.Wenfeng Zhang, Zhiqiang Wei, Lei Huang, Kezhen Xie, Qibing Qin. Adaptive Attention-Aware Network for Unsupervised Person Re-identification[J]. Neurocomputing, 2020, 411: 20-31. 
+   3. Wenfeng Zhang, Lei Huang, Zhiqiang Wei, Qibing Qin, Lei Lv. Angular Regularization for Unsupervised Domain Adaption on Person Re-Identification[J]. Neural Computing and Applications, 2021: 1-16.
+  4.Wenfeng Zhang, Zhiqiang Wei, Lei Huang, Jie Nie, Lei Lv, Guanqun Wei. Person Re-identification Based on Pose-Aware Segmentation[C]//International Conference on Multimedia Modeling. Springer, Cham, 2019: 302-314. 
+   
+   

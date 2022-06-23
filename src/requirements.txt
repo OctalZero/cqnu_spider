@@ -1,0 +1,6 @@
+selenium	Chrome	chromedriver
+pillow
+tesserocr	tesseract	tesserocr v2.4.0 - Python 3.7 - 64 位  tessdata
+opencv-python
+matplotlib	numpy版本要对应
+requests

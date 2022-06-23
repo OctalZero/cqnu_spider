@@ -1,0 +1,2973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TeachersWindow</class>
+ <widget class="QWidget" name="TeachersWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>480</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>480</width>
+    <height>800</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>480</width>
+    <height>800</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>cqnu_spider</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="ui.qrc">
+    <normaloff>:/Icon/Images/Icon.png</normaloff>:/Icon/Images/Icon.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">color: rgb(200, 200, 200);
+background-color: rgb(47, 79, 79);</string>
+  </property>
+  <widget class="QFrame" name="frame_top">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>480</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background: rgb(205, 104, 57)</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QPushButton" name="pushButton_back">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>0</y>
+      <width>50</width>
+      <height>50</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>50</width>
+      <height>50</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>50</width>
+      <height>50</height>
+     </size>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+	border: none;
+	background-color: rgba(0,0,0,0);
+	background: url(:/ui_back/Images/ui_back.png)
+}
+QPushButton:hover {
+
+	background-color: rgb(0,143,150);
+}
+QPushButton:pressed {	
+	background-color: rgba(0,0,0,0);
+}</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_site">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>10</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>华光综艺_CNKI</family>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>教师简介</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QScrollArea" name="scrollArea">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>50</y>
+     <width>480</width>
+     <height>750</height>
+    </rect>
+   </property>
+   <property name="widgetResizable">
+    <bool>false</bool>
+   </property>
+   <widget class="QWidget" name="scrollAreaWidgetContents">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>-5452</y>
+      <width>457</width>
+      <height>6200</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>0</width>
+      <height>6200</height>
+     </size>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::RightToLeft</enum>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <widget class="QWidget" name="layoutWidget">
+     <property name="geometry">
+      <rect>
+       <x>80</x>
+       <y>60</y>
+       <width>302</width>
+       <height>6095</height>
+      </rect>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_1">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>曾攀</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_2">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>曾绍华</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_3">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>曾智</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_4">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>陈代江</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_5">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>陈娟娟</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_6">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>陈兰</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_7">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>陈勇</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_8">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>丛鑫</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_9">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>崔少国</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_10">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>邓毅</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_11">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>翟浩</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_12">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>杜兴</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_13">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>范京春</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_14">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>范永胜</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_15">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>冯骥</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_16">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>傅帆</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_17">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>龚伟</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_18">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>郝占章</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_19">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>何东</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_20">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>何丽</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_21">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>江军</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_22">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>姜扬</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_23">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>蒋明宇</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_24">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>靳蜜静</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_25">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>赖莉</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_26">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>兰晓红</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_27">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>雷蕾</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_28">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>黎天送</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_29">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>李光菊</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_30">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>李明</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_31">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>李明勇</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_32">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>李世宏</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_33">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>李晓虹</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_34">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>刘宇</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_35">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>楼英浩</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_36">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>罗凌</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_37">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>罗世祥</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_38">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>吕佳</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_39">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>马燕</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_40">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>牟小红</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_41">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>牟颖</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_42">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>牛彦敏</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_43">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>彭静</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_44">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>彭顺顺</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_45">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>冉瑞生</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_46">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>沙轩</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_47">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>尚晋</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_48">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>宋婷婷</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_49">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>孙苗</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_50">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>孙平</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_51">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>谭华山</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_52">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>唐万梅</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_53">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>汪平</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_54">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>王艳霞</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_55">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>魏延</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_56">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>文向波</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_57">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>先强</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_58">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>肖颗</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_59">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>徐传运</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_60">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>杨丹</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_61">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>杨德刚</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_62">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>杨卫明</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_63">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>叶青</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_64">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>游中胜</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_65">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>余磊</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_66">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>余萍</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_67">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>詹志飞</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_68">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>张高亮</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_69">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>张万里</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_70">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>张文峰</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_71">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>张杨</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_72">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>张珍瑜</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_73">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>郑玉春</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_74">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>钟华</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_75">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>周春丽</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_76">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>周杨</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_77">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>朱德利</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButton_teacher_548">
+        <property name="minimumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>70</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <family>华光行楷_CNKI</family>
+          <pointsize>26</pointsize>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+	background-color: rgb(205, 104, 137);
+	border-radius: 30px;
+    border: 10px solid rgb(205, 16, 118);
+
+}
+QPushButton:hover {
+	border: 10px solid rgb(255, 255, 0);
+}</string>
+        </property>
+        <property name="text">
+         <string>訾玲玲</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <resources>
+  <include location="ui.qrc"/>
+ </resources>
+ <connections/>
+</ui>

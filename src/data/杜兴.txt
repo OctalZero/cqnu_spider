@@ -1,0 +1,18 @@
+基本情况：杜兴，男，副教授，学历：研究生，学位：博士，最后学位所学专业：仪器科学与技术
+研究方向：  图像处理，模式识别
+研究兴趣：  人脸识别，嵌入式系统开发
+所授课程： 《计算机科学导论》，《操作系统原理与实践（Linux）》，《逻辑与计算机系统》，《嵌入式Linux开发》，《物联网技术》工作经历：2012年10月进入重庆师范大学计算机与信息科学学院任教科研情况：发表论文：   1. Du X, Gong W, Li W. Feature extraction inspired by visual cortex mechanisms. Proceedings of 2nd International Conference on Digital Image Processing, 75460M , 2010,   Singapore.  
+  2. Du X, Gong W. Invariant facial feature extraction using biologically inspired strategies. Optical Engineering, 2011, 50(12): 127205.  
+  3. 杜兴, 龚卫国, 张睿. 一种仿生的人脸不变特征提取方法. 仪器仪表学报, 2011, 32 (4): 813-818.  
+  4. 杜兴, 龚卫国, 仲建华. 模拟生物视觉机制的彩色人脸识别方法. 仪器仪表学报, 2012, 33(8): 1688-1696.  
+  5. Du X, Zhang R, Fusing color and texture features for blurred face recognition. Infrared and Laser Engineering, 2014, 43(12): 4192-4197.  
+  6. 杜兴, 王雅梦, 郑剑, 夏静满. 光强倒数色度空间的彩色人脸光照预处理. 重庆大学学报, 2015, 38(4), 172-176.  
+  7. Cai T, Zheng J, Du X. A Hybrid Attribute based RBAC Model. International Journal of Security and Its Applications, 2015, 9(7), 317-328.  
+  8. 郑剑, 蔡婷, 杜兴. 数据中心电费最小化的负载调度策略. 计算机科学, 2015, 42(11), 542-544.  
+  科研项目：
+   1.重庆市教委项目，KJ1400518，模拟人类视觉的人脸分析方法研究，2014/01-2016/12，已结题，主持。
+  2.重庆科教委项目，cstc2013jcyjA40028，基于人类感知的人脸识别方法研究，2013/01-2016/07，已结题，主持。
+  3.中央高校基本科研业务费项目，CDJXS10122218，基于局部特征的目标识别及追踪关键技术研究，2010/07-2012/05，已结题，主持。
+  
+  联系方式：dux@cqnu.edu.cn
+   

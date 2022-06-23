@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="Close">
+    <file>Images/close.png</file>
+  </qresource>
+  <qresource prefix="ui_back">
+    <file>Images/ui_back.png</file>
+  </qresource>
+  <qresource prefix="home">
+    <file>Images/web.png</file>
+    <file>Images/teacher.png</file>
+    <file>Images/reserve.png</file>
+    <file>Images/use.png</file>
+    <file>Images/view.png</file>
+    <file>Images/about.png</file>
+  </qresource>
+  <qresource prefix="lobby">
+    <file>Images/lobby1.png</file>
+    <file>Images/lobby2.png</file>
+    <file>Images/lobby3.png</file>
+  </qresource>
+  <qresource prefix="Icon">
+    <file>Images/Icon.png</file>
+  </qresource>
+  <qresource prefix="Head">
+    <file>Images/head.png</file>
+  </qresource>
+  <qresource prefix="Logo">
+    <file>Images/logo.png</file>
+  </qresource>
+</RCC>

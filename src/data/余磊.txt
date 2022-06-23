@@ -1,0 +1,43 @@
+基本情况
+   余磊，教授，硕士生导师，中国计算机学会CCF会员，中国人工智能学会会员。2009年于重庆大学计算机学院获得工学博士学位，2010年7月进入重庆师范大学计算机与信息科学学院工作。 研究兴趣：生物特征识别，图像处理，机器学习  所授课程
+    本科：离散数学，面向对象程序设计
+  研究生：数字图像处理 工作经历
+    2010.07至今，重庆师范大学计算机与信息科学学院
+  2019.01-2020.01，加拿大阿尔伯塔大学，访问学者
+  2006.09 - 2009.12，重庆大学，计算机学院，博士
+  2003.09 - 2006.06，重庆大学，数理学院，硕士
+  1999.09 - 2003.06，重庆大学，数理学院，学士 科研情况
+    科研项目
+   [1]国家自然科学基金面上项目，大数据驱动的中小微企业全息风险评估与介观调控机制研究（72071019），2021.01-2024.12，主研
+  [2]重庆市基础科学与前沿技术研究项目，基于子流形联合稀疏表示的人脸图像集识别研究（cstc2017jcyjAX0106），2017.07-2020.06，主持
+  [3]重庆市教委科技项目，面向图像集挖掘子流形信息的人脸识别研究（KJ1600306），2016.07-2018.06，主持
+  [4]重庆市基础科学与前沿技术研究项目，分数阶微分算子在人脸视觉特征提取中的应用研究（cstc2014jcyjA40026），2014.07-2018.06，主持
+  [5]重庆市教委科技项目，分数阶微分在人脸识别中的应用研究（KJ120622），2012.01-2013.12，主持
+  [6]重庆市基础科学与前沿技术研究项目，基于人类感知机制的人脸识别方法研究（cstc2013jcyjA40028），2013.07-2016.06，主研
+  科研论文
+  [1]Lei Yu, Huiqi Wang*, Lifeng Lin, Suchuan Zhong, The incentive effect of venture capital in bilateral partnership systems with the bias mono-stable Cobb-Douglas utility, Nonlinear Dynamics, 2019, 95 (4): 3127-3147. (SCI)
+  [2]Lei Yu, Dan Yang, Huiqi Wang*, Sparse multiple maximum scatter difference for dimensionality reduction, Digital Signal Processing, 2017, 62: 91-100. (SCI)
+  [3]Lei Yu*, Qi Cao, Anping Zhao, Principal patterns of fractional-order differential gradients for face recognition, Journal of Electronic Imaging, 2015, 24 (1): 013021. (SCI)
+  [4]Lei Yu*, Yan Ma, Qi Cao, Face recognition with histograms of fractional differential gradients, Journal of Electronic Imaging, 2014, 23 (3): 033012. (SCI)
+  [5]Lei Yu, Zhongshi He*, Qi Cao, Gabor texture representation method for face recognition using the Gamma and generalized Gaussian models, Image and Vision Computing, 2010, 28 (1): 177-187. (SCI)
+  [6]Lei Yu*, Yan Ma, Qi Cao, Face recognition using sub-pattern based 2DLPP, Journal of Computational Information Systems, 2012, 8 (8): 3385-3392. (EI)
+  [7]Lei Yu*, Yan Ma, Zijun Hu, Gabor texture information for face recognition using the generalized Gaussian model, 6th International Conference on Image and Graphics (ICIG), 2011, pp. 303-308, Hefei, Anhui, China. (EI, Oral)
+  [8]Lei Yu*, Zhongshi He, Qi Cao, Fisher discriminant analysis of Gabor texture features for face recognition, Journal of Computational Information Systems, 2009, 5 (1): 153-162. (EI)
+  [9]Anping Zhao*, Suresh Manandhar, Lei Yu. Topology and semantic based topic dependency structure discovery. Filomat, 2018, 32(5): 1843-1851. (SCI)
+  [10]Lifeng Lin, Lei Yu, Huiqi Wang*, Suchuan Zhong, Parameter-adjusted stochastic resonance system for the aperiodic echo chirp signal in optimal FrFT domain, Communications in Nonlinear Science and Numerical Simulation, 2017, 43: 171-181. (SCI)
+  [11]Anping Zhao*, Lei Yu, Weiming Yang, Semantically structured service community discovery: based on relationship and functionality, International Journal of Computational Science and Engineering, 2016, 9 (7): 233-245. (EI)
+  [12]Qi Cao*, Lei Yu, Mingsheng Cheng, A brief overview on parameter optimization of support vector machine, 3rd International Conference on Smart Materials and Nanotechnology in Engineering (SMNE), 2016, pp. 275-279, Sanya, Hainan, China. (EI)
+  [13]Min Huang*, Lei Yu, Ying Chen, Improved k-means clustering center selecting algorithm,Lecture Notes in Electrical Engineering, 2012, 154: 373-379. (EI)
+   [14]杨宏雨*, 余磊，王森, 基于Gabor 纹理特征的人脸识别方法, 计算机应用研究, 第28卷, 第10期, 3974-3976页, 2011. (CSCD)
+   [15]杨宏雨*, 余磊, 王森, 基于Gabor相位纹理表征的人脸识别方法, 计算机工程, 第37卷, 第24期, 147-149页, 2011. (CSCD)
+   [16]李锐, 陈勇*, 余磊, 基于帧差能量图行质量向量的步态识别算法, 计算机应用, 第34卷, 第5期, 1364-1368页, 2014. (CSCD)
+   [17]卢建云, 何中市, 余磊, 基于多级CS-LBP特征融合的人脸识别方法, 计算机工程与科学, 第6期, 48-51页, 2010. (CSCD)
+   [18]何中市*, 卢建云, 余磊, 基于多通道Gabor滤波与CS-LBP的人脸识别方法, 计算机科学, 第37卷, 第5期, 261-264页, 2010. (CSCD) 联系方式
+    E-mail：ylcqnu@163.com
+  
+  
+   
+  
+  
+   
+        

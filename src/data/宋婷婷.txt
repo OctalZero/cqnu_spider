@@ -1,0 +1,27 @@
+  基本情况：宋婷婷，女，博士，讲师。
+  
+  研究方向：片上光网络、光学神经网络、光计算、非线性光学。
+  教育经历：
+   2010.09~2014.06  西北大学通信工程专业本科/学士
+   2014.09~2017.06  西南大学  信号与信息处理专业  研究生/硕士
+  2018.09~2021.06  西南大学  计算智能与信息处理专业  研究生/博士
+  工作经历：
+   2017.07~2018.08  国防科技大学微电子所 IC设计工程师
+  2021.07至今重庆师范大学 计算机与信息科学学院 讲师
+   科研情况：
+   主研参与国防科技创新特区项目2项、国家科技部863计划子项目1项、中央高校基本科研业务费专项资金项目1项、重庆市基础与前沿研究计划1项，先后在IEEE/OSA Journal of Lightwave Technology、Nano Communication Networks、Photonics等期刊发表SCI论文5篇，EI 论文1篇，申请发明型专利4项，其中2项已授权。
+  代表性论文：
+   [1] Song T T, Xie Y Y, Ye Y C, Liu B C, Chai J X, Jiang X, Zheng Y L. Numerical analysis of nonlinear dynamics based on spin-VCSELs with optical feedback.Photonics, 2021, 8(1): 10. (SCI: 000610720700001)
+   [2] Song T T, Xie Y Y, Ye Y C, Wang S J, Du Y X. Crosstalk analysis and performanceevaluation for torus-based optical networks-on-chip using WDM. Micromachines,2020, 11(11): 985. (SCI: 000593290900001)
+   [3] Song T T, Xie Y Y, Ye Y C, Du Y X, Liu B C, Yu M M, Zheng Y L, Yan H, LiuY. Exploring and evaluating reliable communication in optical networks-on-chipusing group counting method. Nano Communication Networks, 2020, 25: 100310.(SCI: 000571147400003)
+   [4] Song T T, Xie Y Y, Ye Y C, Du Y X, Liu B C, Liu Y. Gaussian-based opticalnetworks-on-chip: performance analysis and optimization. Nano CommunicationNetworks, 2020, 24: 100286. (SCI: 000537262900002)
+   [5] Xie Y Y, Song T T, Zhang Z D, He C, Li J C, Xu C J. Formal analysis of crosstalk noise in mesh-based optical networks-on-chip with WDM. IEEE/OSA Journal of Lightwave Technology, 2016, 34(15):3550-3562. (SCI:000382362100012)
+    [6] Song T T, Xie Y Y, Ye Y C, Liu B C. Performance optimization for mesh-basedoptical networks-on-chip with WDM. The 6th International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS). IEEE, 2019,19688805: 275-279. (EI: 20204509444571)
+   国家发明专利：
+   [1] 解宜原，宋婷婷，叶逸琛，刘波成，朱云超，于梦梦，柴俊雄.基于金属介质金属波导的微波探测器及系统.中华人民共和国国家知识产权局，发明专利，专利号：ZL 2019 1 0894358.6. (已授权)
+   [2]解宜原，宋婷婷，叶逸琛，刘波成，柴俊雄，朱云超，于梦梦.一种提高光利用效率的光热电转换器件.中华人民共和国国家知识产权局，发明专利，专利号: ZL 2019 1 0894359.0. (已授权)
+   [3]解宜原，宋婷婷，叶逸琛，刘波成，柴俊雄，朱云超，严华.一种基于倾斜硅纳米线的光热电转换器件.中华人民共和国国家知识产权局，发明专利，申请号：201910932784.4. (审查中)
+   [4]解宜原，宋婷婷，叶逸琛，刘波成，柴俊雄，朱云超，江潇.一种基于金属-介质-金属波导的电光调制器.中华人民共和国国家知识产权局，发明专利，申请号：201911281806.1. (审查中)
+   邮箱：ttsong_53@163.com
+  
+   

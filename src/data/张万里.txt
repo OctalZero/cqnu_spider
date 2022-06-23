@@ -1,0 +1,19 @@
+基本情况：张万里，男，博士，讲师，所学专业：计算智能与信息处理。
+  研究方向：复杂系统的同步与控制，神经动力学优化理论。
+  工作经历：2020年1月至今，重庆师范大学计算机与信息科学学院教师
+  科研与学术经历：
+   2013年09月—2016年09月 重庆师范大学硕士研究生
+  2016年09月—2019年12月 西南大学 博士研究生
+  2017年04月—2017年05月 美国德州农工大学卡塔尔分校 科研助理2018年09月—2019年09月 澳大利亚科廷大学 联合培养博士研究生
+  科研情况：
+   参与国家自然科学基金项目3项，先后在IEEE Transactions on Neural Networks and Learning Systems，IEEE Transactions on Cybernetics， Neural Networks，Nonlinear Dynamics，ISA Transactions和Neural Computing and Applications等自动化和控制领域的重要期刊上发表SCI论文10余篇。其中在IEEE Transactions on Neural Networks and Learning Systems 发表的论文曾入选ESI高被引论文。
+  代表性论文：
+   1. Zhang Wanli, Yang Xinsong, Xu Chen, Feng Jianwen,  Li Chuandong. Finite-time synchronization of discontinuous neural networks with delays and mismatched parameters, IEEE Transactions on Neural Networks and Learning  Systems, 2018, 29(8): 3761–3771. 
+  2. Zhang Wanli, Yang Xinsong, Li Chuandong. Fixed-time stochastic synchronization of complex networks via continuous control. IEEE Transactions on Cybernetics, 2019, 49(8):3099–3104.
+  3. Zhang Wanli,Yang Shiju, Li Chuandong, Zhang Wei, Yang Xinsong. Stochastic exponential synchronization of memristive neural networks with time-varying delays via quantized control. Neural Networks, 2018, 104: 93–103.
+  4. Zhang Wanli, Li Chuandong, Yang Shiju,  Yang Xinsong. Synchronization criteria for neural networks with proportional delays via quantized control, Nonlinear Dynamics, 2018, 94: 541–551.
+  5. Zhang Wanli, Li Hongfei, Li Chuandong, Li Zunbin, Yang Xinsong. Fixed-time synchronization of complex networks via quantized pinning control. ISA Transactions. 2019,91：151–156.
+   联系方式：窗体顶端
+   联系方式：重庆师范大学计算机与信息科学学院，重庆，401331
+  
+    

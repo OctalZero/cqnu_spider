@@ -1,0 +1,17 @@
+基本情况：曾攀，男，博士，讲师，所学专业：软件工程。
+  
+  研究方向：数据科学，人工智能，时间序列数据预测。
+  工作经历：2021年7月至今，重庆师范大学计算机与信息科学学院教师
+  E-mail: 20210041@cqnu.edu.cn
+  科研与学术经历：
+  2013年09月—2016年07月 湖南大学 硕士研究生
+   2016年09月—2020年12月 湖南大学 博士研究生
+  科研情况：
+  参与国家自然科学基金项目2项，主持湖南省研究生科研创新项目1项，先后在Journal of Modern Power Systems and Clean Energy，IETGeneration Transmission & Distribution，IJCNN等电力负荷预测领域的重要期刊和会议上发表SCI论文3篇，CCF推荐C类会议1篇。
+   代表性论文：
+   
+  [1]Zeng P, Sheng C, Jin M. A learning framework based on weighted knowledge transfer for holiday load forecasting. Journal of Modern Power Systems and Clean Energy, 2019, 7(2):329-339 （第一作者，中科院SCI-2区收录，IF= 3.09）
+   [2]Zeng P, Jin M. Peak load forecasting based on multi-source data and day-to-day topological network. IET Generation Transmission & Distribution, 2018, 12(6):1374-1381（第一作者，中科院SCI-3区收录，IF= 2.862）
+   [3]Zeng P, Wu D, Jin M. Compress-filtering and transfer-expanding of data set for short-term load forecasting. In: International Joint Conference on Neural Networks. IEEE, 2017, 1095-1101（第一作者，CCF-C类会议）
+   [4]Prioritization of candidate disease genes by combining topological similarity and semantic similarity[J]. Journal of Biomedical Informatics, 2015, 57(C):1-5（第三作者，中科院SCI-3区收录，IF=2.882）
+    
